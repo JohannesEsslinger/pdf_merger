@@ -12,9 +12,7 @@ PDF Merger is a simple command-line tool for merging multiple PDF files into a s
 
 ## Usage
 <pre>
-```shell
 merger.sh /path/to/pdf_directory
-```
 </pre>
 
 If the directory argument is not provided, the script will use the current directory.
